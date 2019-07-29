@@ -49,4 +49,4 @@ Instalar aplicativo Postman
 Seleconar New-> New Collection
 
 Usar função GET inserir url que deseja
-Selecionar a aba teste e digitar:
+Selecionar a aba teste e digitar no url o id desejado
